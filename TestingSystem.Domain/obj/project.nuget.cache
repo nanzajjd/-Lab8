@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qWwBENAatv0=",
+  "success": true,
+  "projectFilePath": "/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/TestingSystem.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/nanzajjd/.nuget/packages/microsoft.netcore.app.ref/8.0.26/microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "/Users/nanzajjd/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.26/microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "TestingSystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TestingSystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestingSystem.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestingSystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TestingSystem.Domain/TestingSystem.Domain.csproj",
+      "msbuildProject": "../TestingSystem.Domain/TestingSystem.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "TestingSystem.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/nanzajjd/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.ConsoleApp/TestingSystem.ConsoleApp.csproj",
+      "projectName": "TestingSystem.ConsoleApp",
+      "projectPath": "/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.ConsoleApp/TestingSystem.ConsoleApp.csproj",
+      "packagesPath": "/Users/nanzajjd/.nuget/packages/",
+      "outputPath": "/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.ConsoleApp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/nanzajjd/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/TestingSystem.Domain.csproj": {
+              "projectPath": "/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/TestingSystem.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.26, 8.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.26, 8.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.26, 8.0.26]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.313/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

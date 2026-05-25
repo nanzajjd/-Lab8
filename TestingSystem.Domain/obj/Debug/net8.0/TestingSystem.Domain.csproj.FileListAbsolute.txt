@@ -1,0 +1,12 @@
+/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/bin/Debug/net8.0/TestingSystem.Domain.deps.json
+/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/bin/Debug/net8.0/TestingSystem.Domain.dll
+/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/bin/Debug/net8.0/TestingSystem.Domain.pdb
+/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/obj/Debug/net8.0/TestingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/obj/Debug/net8.0/TestingSystem.Domain.AssemblyInfoInputs.cache
+/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/obj/Debug/net8.0/TestingSystem.Domain.AssemblyInfo.cs
+/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/obj/Debug/net8.0/TestingSystem.Domain.csproj.CoreCompileInputs.cache
+/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/obj/Debug/net8.0/TestingSystem.Domain.sourcelink.json
+/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/obj/Debug/net8.0/TestingSystem.Domain.dll
+/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/obj/Debug/net8.0/refint/TestingSystem.Domain.dll
+/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/obj/Debug/net8.0/TestingSystem.Domain.pdb
+/Users/nanzajjd/VSCodeProjects/СSharp_Projects/TestingSystem/TestingSystem.Domain/obj/Debug/net8.0/ref/TestingSystem.Domain.dll
